@@ -1,7 +1,6 @@
 "use client";
 import Link from "next/link";
 import styles from "./styles.module.css";
-
 const Categories = ({ categories }) => {
   return (
     <div className={styles.categories}>
